@@ -6,7 +6,6 @@
     "license": "MIT",
     "require": {
         "psr/log": "*",
-        "guzzlehttp/guzzle": "^6.2",
         "ext-json": "*"
     },
     "require-dev": {
